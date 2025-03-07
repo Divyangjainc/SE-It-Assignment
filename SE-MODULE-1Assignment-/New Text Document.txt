@@ -1,0 +1,55 @@
+Q.1.What is software? What is software engineering?
+Ans.Software is a collection of instructions that tell a computer what to do, while software engineering is the process of designing, developing, testing,
+and maintaining software. 
+
+Q.2.Explain types of software.
+Ans.The main types of software are system software, application software, and programming software.
+ 
+1.System software 
+Manages how the user interacts with the computer's hardware
+Runs in the background to maintain the computer's basic functions
+Provides a platform for applications to run on
+Includes programs that communicate with the computer's processor
+
+2.Application software
+Performs specific tasks for the user, such as word processing, browsing the internet, or playing games 
+Includes programs that are designed for specific users, such as AutoCAD for designers or Adobe Premiere for video editors 
+
+3.Programming software
+Provides the tools that software developers need to create new software 
+Includes programs such as interpreters, text editors, and compilers 
+
+Other types of software
+Middleware, which sits between system software and applications 
+Driver software, which operates computer devices and peripherals 
+Assemblers, which convert basic computer instructions into a pattern of bits that the computer's processor can use 
+Most people interact with computers using application software.
+
+Q.3.What is SDLC? Explain each phase of SDLC 
+Ans.SDLC stands for Software Development Life Cycle. It's a structured process for creating software that involves planning, analysis, design, development, testing, 
+and deployment. The goal of SDLC is to create high-quality software that's cost-effective and meets client needs. 
+
+Phases of SDLC 
+Planning: Set goals and define requirements for the project
+Analysis: Understand the customer's needs and requirements
+Design: Create a design based on the requirements
+Development: Build the software based on the design
+Testing: Test the software to ensure it meets requirements
+Deployment: Make the software available for use
+Maintenance: Continuously improve the software
+SDLC models
+There are many different SDLC models, including the Waterfall model, V-Shaped model, Prototype model, Spiral model, Iterative Incremental model, Big Bang model, and Agile model. Each model has its own advantages and disadvantages. 
+SDLC benefits
+SDLC aims to reduce risks and errors by incorporating client feedback and iterative testing. It also improves the development timeline and reduces redundancy. 
+
+Q.4.What is DFD? Create a DFD diagram on Flipkart
+Ans.Data Flow Diagrams (DFD) provide a graphical representation of the data flow of a system that can be understood by both technical and non-technical users.
+The models enable software engineers, customers, and users to work together effectively during the analysis and specification of requirements.
+
+Q.5.What is Flow chart? Create a flowchart to make addition of two numbers
+Ans.A flowchart is a visual representation of a process, system, or algorithm. It uses standardized shapes and arrows to map out the steps involved, 
+making it easy to understand the flow of information and decision-making. Imagine it as a roadmap for your logic, laid out in a way that anyone can follow.
+
+Q.6.What is Use case Diagram? Create a use-case on bill payment on paytm.
+Ans.Use Case Diagram for Payment. A use case diagram example developed for a Payment system. Use this design as a use case diagram example for teaching.
+The design can also be customized as a use case diagram template, with Visual Paradigm's use case diagram tool. 
